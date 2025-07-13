@@ -29,9 +29,9 @@ This project combines **Python-based data analysis** and a **Power BI dashboard*
 ---
 
 ## 📁 Project Files
-- `amazon_sales_analysis.ipynb` – Python notebook for EDA
-- `amazon_electronics_dataset.zip`in  – Dataset used for analysis
-- `amazon_sales_dashboard.pbix` – Power BI dashboard file
+- `Product_Sales_Analysis.ipynb & Sales_Analysis.ipynb` – Python notebook for EDA
+- `electronics_cleaned.zip & Amazon_Electronics_Products_Sales.zip`in  – Dataset used for analysis
+- `DASHBOARDS.pbix` – Power BI dashboard file
 
 ---
 
